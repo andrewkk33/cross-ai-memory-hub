@@ -1,0 +1,15 @@
+# 保护个人隐私：绝不允许把真实记忆中枢提交到仓库
+.ai-memory-hub/
+**/.ai-memory-hub/**
+
+# 本地环境 / 个人配置
+*.local
+.env
+.env.*
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
